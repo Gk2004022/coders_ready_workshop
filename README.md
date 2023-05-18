@@ -37,7 +37,8 @@ The third day of the workshop focuses on data analysis using Python. Participant
 - Data cleaning and manipulation
 - Data visualization
 - Basic statistical analysis
-![graph]
+![graph]![graph_avg_month_vs_ArrDelay_month](https://github.com/Gk2004022/coders_ready_workshop/assets/121217824/d8bacbac-522c-40b1-9dab-30e9e6f62056)
+
 
 Participants will work through a series of exercises to gain practical experience with data analysis in Python.
 
