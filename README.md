@@ -25,7 +25,8 @@ The second day of the workshop focuses on object-oriented programming (OOP) in P
 --- Classes and objects
 ---Inheritance and polymorphism
 - Creating a calculator app using Tkinter
-![Calu]
+![Calu]![image png](https://github.com/Gk2004022/coders_ready_workshop/assets/121217824/273a986c-5771-4375-a7a5-bc8f422e03b0)
+
 
 Participants will learn how to structure code using OOP principles and will be guided through the process of building a simple calculator app using the Tkinter library.
 
